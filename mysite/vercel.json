@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "builds": [
     { "src": "manage.py", "use": "@vercel/python" },
     { "src": "mysite/wsgi.py", "use": "@vercel/python" }
